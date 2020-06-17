@@ -1,2 +1,3 @@
-# swiftpackage-jc
-Basic Swift Package for testing purposes
+# JCComponents
+
+A description of this package.
