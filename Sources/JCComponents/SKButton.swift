@@ -18,7 +18,7 @@ public struct SKButton: View {
         Button(action: {
 
         }) {
-            Image(systemName: "bolt.fill").foregroundColor(.orange).font(.title)
+            Image(systemName: "bolt.fill").foregroundColor(.blue).font(.title)
         }
     }
 }
